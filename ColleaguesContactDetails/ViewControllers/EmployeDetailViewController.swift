@@ -142,7 +142,7 @@ var createdLabel: UILabel = {
         
      
         
-        idLabel.topAnchor.constraint(equalTo: nameLabel.bottomAnchor, constant: -850.0).isActive = true
+        idLabel.topAnchor.constraint(equalTo: nameLabel.bottomAnchor, constant: -870.0).isActive = true
         idLabel.leadingAnchor.constraint(equalTo: safeArea.leadingAnchor, constant: 10.0).isActive = true
         idLabel.trailingAnchor.constraint(equalTo: safeArea.trailingAnchor, constant: -10.0).isActive = true
         idLabel.bottomAnchor.constraint(equalTo: safeArea.bottomAnchor, constant: -5.0).isActive = true
